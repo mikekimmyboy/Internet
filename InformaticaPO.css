@@ -1,0 +1,49 @@
+
+html {
+	height: 100%
+}
+
+
+body {
+	background-color: yellow;
+	font-family: sans-serif;
+}
+
+h1 {
+	font-size: 35px; color: black; text-transform: uppercase; text-align: center; t
+}
+
+nav {
+	text-align: center;
+}
+
+strong {
+	font-family: fantasy;
+}
+ol {
+	font-size: 30px; color: red; text-transform: uppercase; text-align: center;
+}
+
+footer {
+	text-align: center;
+}
+
+img {
+	width:%100;
+}
+
+h2 {
+	font-size: 35px; font-family: impact; text-align: center 
+}
+
+table {
+	text-align: center; 
+}
+
+th {
+	color: black; text-align: center;
+}
+
+td {
+	color: black; text-align: center;
+}
